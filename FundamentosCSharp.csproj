@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Construtores\" />
     <Folder Include="Metodos\" />
     <Folder Include="Coleções\" />
     <Folder Include="Serialização\" />
